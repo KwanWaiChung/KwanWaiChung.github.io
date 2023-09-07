@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Hi! I am a fourth-year PhD candidate at The Chinese University of Hong Kong. I am fortunate to be advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). Previously, I completed undergraduate degree in computer science from Hong Kong Baptist Unveristy, with a minor in statistics.
+Hi! I am a fourth-year PhD candidate at The Chinese University of Hong Kong. I am fortunate to be advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). Previously, I completed undergraduate degree in computer science from Hong Kong Baptist University, with a minor in statistics.
 
 My research interests lie primarily in natural language processing (NLP) and machine learning. I mostly interested in dialog agents, particularly in task-oriented dialog systems in my early years of study. 
-Recently, I have been working on the controlable and factual general dialog agents with LLM. My ultimate goal is to tackle a wide range of NLP problems using a unified dialog agent.
+Recently, I have been working on the controllable and factual general dialog agents with LLM. My ultimate goal is to tackle a wide range of NLP problems using a unified dialog agent.
 
 Publications
 ======
