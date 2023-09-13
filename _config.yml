@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : &name ""
-  avatar           : "https://kwanwaichung.github.io/images/personal_pic.jpg"
+  avatar           : "https://kwanwaichung.github.io/images/personal_pic.png"
   bio              : "PhD Candidate at CUHK"
   location         : "Hong Kong"
   employer         :
