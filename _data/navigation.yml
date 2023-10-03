@@ -9,4 +9,5 @@ main:
   - title: "Miscellany"
     url: /#miscellany
 
-    
+  - title: "CV"
+    url:  /files/cv.pdf
