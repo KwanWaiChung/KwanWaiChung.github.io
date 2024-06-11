@@ -67,7 +67,8 @@ Conference of International Communication Association (2020).
 
 # Experience
 
-- Jun.2023 - Feb.2024\. Research Intern, Huawei Noah's Ark Lab, Hong Kong.
+- April. 2024 - July. 2024\. Visiting Researcher, King's College London, London.
+- Jun. 2023 - Feb. 2024\. Research Intern, Huawei Noah's Ark Lab, Hong Kong.
 - Aug. 2019 - Aug. 2020\. Research Assistant, Hong Kong Baptist University, Hong Kong.
 - May. 2018 - Aug. 2018\. Data Scientist Intern, MultiMedia Big Data Analytics Limited, Hong Kong.
 - Jan. 2019 - May. 2019\. Research Assistant, Hong Kong Baptist University, Hong Kong.
