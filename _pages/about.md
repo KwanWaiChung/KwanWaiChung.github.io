@@ -20,15 +20,15 @@ My research interests lie primarily in natural language processing (NLP) and mac
 **Wai-Chung Kwan**, Xingshan Zeng, Yuxin Jiang, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, and Kam-Fai Wong \
 Preprint 2024. \[[code](https://github.com/KwanWaiChung/MT-Eval)\]
 
-[JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialog Policy Learning](https://arxiv.org/abs/2309.00230)\
-**Wai-Chung Kwan**\*, Huimin Wang\*, Hongru Wang, Zezhong Wang, Xian Wu, Yefeng Zheng, and Kam-Fai Wong.\
-COLING 2024 (Long papers). \[[code](https://github.com/KwanWaiChung/JoTR)\]
-
 [M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2310.19240)\
 **Wai-Chung Kwan**, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, Lifeng Shang, Qun Liu, and Kam-Fai Wong \
-Preprint 2023. \[[code](https://github.com/KwanWaiChung/M4LE)\]
+ACL 2024 (long papers). \[[code](https://github.com/KwanWaiChung/M4LE)\]
 
 [Dialog Action-Aware Transformer for Dialog Policy Learning](https://arxiv.org/abs/2309.02240)\
+[JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialog Policy Learning](https://arxiv.org/abs/2309.00230)\
+**Wai-Chung Kwan**\*, Huimin Wang\*, Hongru Wang, Zezhong Wang, Xian Wu, Yefeng Zheng, and Kam-Fai Wong.\
+COLING 2024 (long papers). \[[code](https://github.com/KwanWaiChung/JoTR)\] \[[poster](files/JoTR_Poster.pdf)\]
+
 Huimin Wang\*, **Wai-Chung Kwan**\*, and Kam-Fai Wong.\
 SIGDIAL 2023 (short papers). \[[poster](files/DaTrans_Poster.pdf)\]
 
