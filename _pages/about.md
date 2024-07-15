@@ -37,7 +37,7 @@ Huimin Wang\*, **Wai-Chung Kwan**\*, and Kam-Fai Wong.\
 ACL 2023 (long papers). \[[code](https://github.com/KwanWaiChung/coad)\]
 
 [A Survey on Recent Advances and Challenges in Reinforcement Learning Methods for Task-Oriented Dialogue Policy Learning](https://arxiv.org/abs/2202.13675)\
-**Wai-Chung Kwan**\*, Hongru Wang\*, Huimin Wang, andKam-Fai Wong.\
+**Wai-Chung Kwan**\*, Hongru Wang\*, Huimin Wang, and Kam-Fai Wong.\
 Machine Intelligence Research (2023).
 
 [Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue](https://arxiv.org/abs/2310.08840)\
