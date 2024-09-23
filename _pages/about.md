@@ -12,17 +12,17 @@ Hi! I am a fourth-year PhD candidate at The Chinese University of Hong Kong, adv
 
 My research interests lie primarily in natural language processing (NLP) and machine learning. I am mostly interested in dialog agents, particularly in task-oriented dialog systems in my early years of study. Recently, I have been working on understanding the capabilities of large language models.
 
-# Publications
+# Selected Publications
 
 (* indicates equal contribution)
+
+[MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.16745)\
+**Wai-Chung Kwan**, Xingshan Zeng, Yuxin Jiang, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, and Kam-Fai Wong \
+EMNLP 2024 (long papers). \[[code](https://github.com/KwanWaiChung/MT-Eval)\] 
 
 [M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2310.19240)\
 **Wai-Chung Kwan**, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, Lifeng Shang, Qun Liu, and Kam-Fai Wong \
 ACL 2024 (long papers). \[[code](https://github.com/KwanWaiChung/M4LE)\] \(<span style="color: red">Outstanding Paper Award</span>\)
-
-[MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.16745)\
-**Wai-Chung Kwan**, Xingshan Zeng, Yuxin Jiang, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, and Kam-Fai Wong \
-Preprint 2024. \[[code](https://github.com/KwanWaiChung/MT-Eval)\] 
 
 [JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialog Policy Learning](https://arxiv.org/abs/2309.00230)\
 **Wai-Chung Kwan**\*, Huimin Wang\*, Hongru Wang, Zezhong Wang, Xian Wu, Yefeng Zheng, and Kam-Fai Wong.\
@@ -40,7 +40,7 @@ ACL 2023 (long papers). \[[code](https://github.com/KwanWaiChung/coad)\]
 **Wai-Chung Kwan**\*, Hongru Wang\*, Huimin Wang, and Kam-Fai Wong.\
 Machine Intelligence Research (2023).
 
-[Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue](https://arxiv.org/abs/2310.08840)\
+<!-- [Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogue](https://arxiv.org/abs/2310.08840)\
 Hongru Wang, Minda Hu, Yang Deng, Rui Wang, Fei Mi, Weichao Wang, Yasheng Wang, **Wai-Chung Kwan**, Irwin King, and Kam-Fai Wong.\
 Findings of EMNLP 2023 (long papers).
 
@@ -63,7 +63,7 @@ ICNLSP 2022 (long papers).
 
 [Using time-series patterns in word segmentation for data preprocessing: A methodological development in evolving public discourse mining]()\
 Yin Zhang, Wai-Chung Kwan, Wai-Yeung Ho, Chi-Chiu Tong, and Tsz-Ho Hui.\
-Conference of International Communication Association (2020).
+Conference of International Communication Association (2020). -->
 
 # Experience
 
