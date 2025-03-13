@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year PhD candidate at The Chinese University of Hong Kong, advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). Previously, I obtained my undergraduate degree in computer science from Hong Kong Baptist University, with a minor in statistics.
+Hi! I am a postdoc at the Unversity of Edinburgh, working with Pasquale Minervini. I completed my PhD at The Chinese University of Hong Kong in 2025, advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). 
 
-My research interests lie primarily in natural language processing (NLP) and machine learning. I am mostly interested in dialog agents, particularly in task-oriented dialog systems in my early years of study. Recently, I have been working on understanding the capabilities of large language models.
+My research interests are primarily in NLP and machine learning. Currently, I'm mostly interested in LLM reasoning. Before this, I worked on dialogue agents, especially task-oriented systems, and also explored different ways to evaluate LLMs. 
 
 # Selected Publications
 
