@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a postdoc at the Unversity of Edinburgh, working with Pasquale Minervini. I completed my PhD at The Chinese University of Hong Kong in 2025, advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). 
+Hi! I am a postdoc at The University of Edinburgh, working with Pasquale Minervini. I completed my PhD at The Chinese University of Hong Kong in 2025, advised by Prof. [Kam-Fai Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/). 
 
 My research interests are primarily in NLP and machine learning. Currently, I'm mostly interested in LLM reasoning. Before this, I worked on dialogue agents, especially task-oriented systems, and also explored different ways to evaluate LLMs. 
 
