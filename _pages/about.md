@@ -22,7 +22,7 @@ Preprint (2026). \[[code](https://github.com/EdinburghNLP/SCOPE)\] \[[project pa
 
 [OpenSIR: Open-Ended Self-Improving Reasoner](https://arxiv.org/abs/2511.00602)\
 **Wai-Chung Kwan**, Joshua Ong Jun Leang, Pavlos Vougiouklis, Jeff Z. Pan, Marco Valentino, and Pasquale Minervini.\
-Preprint (2025). \[[code](https://github.com/EdinburghNLP/OpenSIR)\]
+Preprint (2025). \[[code](https://github.com/EdinburghNLP/OpenSIR)\] \[[project page](https://edinburghnlp.github.io/opensir/)\]
 
 [MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.16745)\
 **Wai-Chung Kwan**, Xingshan Zeng, Yuxin Jiang, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, and Kam-Fai Wong \
