@@ -16,6 +16,14 @@ My research interests are primarily in NLP and machine learning. Currently, I'm 
 
 (* indicates equal contribution)
 
+[SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks](https://arxiv.org/abs/2605.31433)\
+**Wai-Chung Kwan**, Aryo Pradipta Gema, Joshua Ong Jun Leang, and Pasquale Minervini.\
+Preprint (2026). \[[code](https://github.com/EdinburghNLP/SCOPE)\] \[[project page](https://edinburghnlp.github.io/scope/)\] \[[models](https://huggingface.co/collections/wckwan/scope)\] \[[W&B logs](https://wandb.ai/cyruskwan/SCOPE/table)\]
+
+[OpenSIR: Open-Ended Self-Improving Reasoner](https://arxiv.org/abs/2511.00602)\
+**Wai-Chung Kwan**, Joshua Ong Jun Leang, Pavlos Vougiouklis, Jeff Z. Pan, Marco Valentino, and Pasquale Minervini.\
+Preprint (2025). \[[code](https://github.com/EdinburghNLP/OpenSIR)\]
+
 [MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.16745)\
 **Wai-Chung Kwan**, Xingshan Zeng, Yuxin Jiang, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, and Kam-Fai Wong \
 EMNLP 2024 (long papers). \[[code](https://github.com/KwanWaiChung/MT-Eval)\] 
